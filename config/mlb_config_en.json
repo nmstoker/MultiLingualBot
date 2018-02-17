@@ -1,0 +1,32 @@
+{
+  "project": null,
+  "fixed_model_name": "current_en",
+  "pipeline": ["nlp_spacy", "tokenizer_spacy", "intent_featurizer_spacy", "ner_crf", "intent_classifier_sklearn"],
+  "language": "en",
+  "num_threads": 4,
+  "max_training_processes": 1,
+  "path": "projects",
+  "response_log": "logs",
+  "log_level": "INFO",
+  "port": 5000,
+  "data": "data/mlb_en.md",
+  "emulate": null,
+  "log_file": "mlb.log",
+  "spacy_model_name": "en_core_web_md",
+  "token": null,
+  "max_number_of_ngrams": 7,
+  "ner_crf": {
+    "BILOU_flag": true,
+    "features": [
+      ["low", "title", "upper", "pos", "pos2"],
+      ["bias", "low", "word3", "word2", "upper", "title", "digit", "pos", "pos2", "pattern"],
+      ["low", "title", "upper", "pos", "pos2"]],
+    "max_iterations": 50,
+    "L1_c": 1,
+    "L2_c": 1e-3
+  },
+  "intent_classifier_sklearn": {
+    "C": [1, 2, 5, 10, 20, 100],
+    "kernel": "linear"
+  }
+}

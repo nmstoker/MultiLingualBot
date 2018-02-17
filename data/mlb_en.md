@@ -1,0 +1,79 @@
+## intent:history
+- history
+- tell me about history
+- who were the celts?
+- tell me about the han dynasty
+- what was the reformation?
+- what is the divine right of kings?
+- who were the conquistadors?
+- who was martin luther?
+- when did napoleon die? <!-- end of old -->
+- two of henry viii's six wives were executed
+- when was william shakespeare born?
+- robert catesby was the leader of the gunpowder plot
+- who were the suffragettes?
+- louis xiv of france was known as the sun king
+- leopold i was the holy roman emperor during the seventeeenth century
+- the roman republic traditionally is dated from 509 bc
+- the romans constructed numerous aqueducts throughout the empire to bring water into cities and towns
+- the first dynasty of the persian empire was created by achaemenids, established by cyrus the great
+
+## intent:physics
+- physics
+- tell me about physics
+- what is the Kelvin scale?
+- how do solar panels work?
+- what is power
+- how do we measure resistance?
+- what is a voltmeter?
+- what caused the big bang?
+- what is a supernova?
+- tell me about boyle's law? <!-- end of old -->
+- astronomy is a natural science that studies celestial objects 
+- galileo used telescopes to enhance his observations
+- a number of spectral lines produced by interstellar gas are observable at radio wavelengths
+- classical mechanics uses common-sense notions of how matter and forces exist and interact
+- gravity is a natural phenomenon by which all things with mass are brought toward one another
+- faraday conducted research on the magnetic field around a conductor carrying a direct current
+- relativity introduced concepts such as kinematic and gravitational time dilation and length contraction
+- quantum mechanics works at the smallest scales of energy levels of atoms and subatomic particles
+
+## intent:biology
+- biology
+- tell me about biology
+- what is photsynthesis?
+- what is mieosis?- 
+- how are flowers polinated?
+- what is DNA for?
+- how do fish reproduce?
+- how do birds mate? <!-- end of old -->
+- carl linnaeus formalised the modern system of naming organisms called binomial nomenclature
+- in biology, adipose tissue or simply fat is a loose connective tissue composed mostly of adipocytes
+- the endocrine system secretes hormones directly into the circulatory system to be carried towards distant target organs
+- the kidneys are two bean-shaped organs found on the left and right sides of the body in vertebrates.
+- a eukaryote is any organism whose cells have a cell nucleus and other organelles enclosed within membranes
+- a virus is a small infectious agent that replicates only inside the living cells of other organisms
+- natural selection can act on any heritable phenotypic trait
+- the number of mitochondria in a cell can vary widely by organism, tissue, and cell type
+- proteins are large biomolecules, or macromolecules, consisting of one or more long chains of amino acid residues
+- almost all metabolic processes in the cell need enzyme catalysis in order to occur at rates fast enough to sustain life
+
+## intent:computing
+- computing
+- tell me about computing
+- how does a cpu work?
+- what is the difference between ram and a hard disk?
+- why are processors measured in ghz?
+- what is a compiler?
+- what is machine code?
+- is java related to javascript?
+- who invented the computer?
+- who was the first programmer? <!-- end of old -->
+- a general-purpose programming language is designed to be used for writing software in a wide variety of application domains
+- c++ has imperative, object-oriented, generic programming features and low-level memory manipulation
+- the relational model for database management has a structure and language consistent with first-order predicate logic
+- an operating system (os) is system software that manages computer hardware and software resources
+- the benefits of using free and open-source software can include decreased software costs, increased security and stability
+- the desktop environment was seen mostly on personal computers until the rise of mobile computing
+- secure shell is a cryptographic network protocol for operating network services securely over an unsecured network
+- a binary code represents text, computer processor instructions, or other data using any two-symbol system

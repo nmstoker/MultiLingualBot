@@ -1,0 +1,79 @@
+## intent:history
+- histoire
+- Parle moi de l'histoire
+- Qui étaient les Celtes?
+- Parle-moi de la dynastie Han
+- Quelle était la réforme?
+- Quel est le droit divin des rois?
+- Qui étaient les conquistadors?
+- Qui était Martin Luther?
+- Quand napoléon est-il mort? <!-- end of old -->
+- Deux des six femmes de Henry VIII ont été exécutées
+- Quand est né william Shakespeare?
+- Robert Catesby était le chef de l'intrigue de la poudre à canon
+- qui étaient les suffragettes?
+- Louis XIV de France était connu comme le roi du soleil
+- Léopold j'étais le saint empereur romain pendant le dix-septième siècle
+- La République romaine est traditionnellement datée de 509 av.
+- les romains ont construit de nombreux aqueducs dans tout l'empire pour apporter de l'eau dans les villes et villages
+- La première dynastie de l'empire perse fut créée par les Achéménides, établie par Cyrus le Grand
+
+## intent:physics
+- la physique
+- Parlez-moi de la physique
+- Quelle est l'échelle de Kelvin?
+- Comment fonctionnent les panneaux solaires?
+- Qu'est-ce que le pouvoir
+- Comment mesurons-nous la résistance?
+- Qu'est-ce qu'un voltmètre?
+- Qu'est-ce qui a causé le big bang?
+- Qu'est-ce qu'une supernova?
+- Parle-moi de la loi de Boyle? <!-- end of old -->
+- L'astronomie est une science naturelle qui étudie les objets célestes
+- Galileo utilisé des télescopes pour améliorer ses observations
+- un certain nombre de raies spectrales produites par le gaz interstellaire sont observables aux longueurs d'onde radio
+- la mécanique classique utilise des notions de bon sens sur la façon dont la matière et les forces existent et interagissent
+- la gravité est un phénomène naturel par lequel toutes les choses avec la masse sont rapprochées l'une de l'autre
+- Faraday a mené des recherches sur le champ magnétique autour d'un conducteur porteur d'un courant continu
+- La relativité introduit des concepts tels que la dilatation cinématique et la dilatation temporelle gravitationnelle et la contraction de la longueur
+- la mécanique quantique fonctionne aux plus petites échelles des niveaux d'énergie des atomes et des particules subatomiques
+
+## intent:biology
+- la biologie
+- Parlez-moi de la biologie
+- Qu'est-ce que la photsynthèse?
+- Qu'est-ce que mieosis? -
+- Comment les fleurs sont-elles polies?
+- A quoi sert l'ADN?
+- Comment les poissons se reproduisent-ils?
+- Comment les oiseaux s'accouplent-ils? <!-- end of old -->
+- carl linnaeus a formalisé le système moderne d'organismes de nommage appelé nomenclature binomiale
+- en biologie, le tissu adipeux ou simplement la graisse est un tissu conjonctif lâche composé principalement d'adipocytes
+- le système endocrinien sécrète des hormones directement dans le système circulatoire pour être transporté vers des organes cibles distants
+- les reins sont deux organes en forme de haricot trouvés sur les côtés gauche et droit du corps chez les vertébrés.
+- un eucaryote est un organisme dont les cellules ont un noyau cellulaire et d'autres organites enfermés dans des membranes
+- un virus est un petit agent infectieux qui se réplique uniquement à l'intérieur des cellules vivantes d'autres organismes
+- La sélection naturelle peut agir sur tout trait phénotypique héréditaire
+- le nombre de mitochondries dans une cellule peut varier considérablement selon l'organisme, le tissu et le type cellulaire
+- les protéines sont de grosses biomolécules, ou macromolécules, consistant en une ou plusieurs longues chaînes de résidus d'acides aminés
+- presque tous les processus métaboliques dans la cellule ont besoin d'une catalyse enzymatique pour se produire à des vitesses suffisamment rapides pour maintenir la vie
+
+## intent:computing
+- l'informatique
+- Parle-moi de l'informatique
+- Comment fonctionne un cpu?
+- Quelle est la différence entre RAM et un disque dur?
+- Pourquoi les processeurs sont-ils mesurés en ghz?
+- Qu'est-ce qu'un compilateur?
+- Qu'est-ce que le code machine?
+- java est-il lié à javascript?
+- Qui a inventé l'ordinateur?
+- Qui était le premier programmeur? <!-- end of old -->
+- un langage de programmation à usage général est conçu pour être utilisé pour l'écriture de logiciels dans une grande variété de domaines d'application
+- c ++ a des fonctions de programmation génériques impératives, orientées objet et une manipulation de mémoire de bas niveau
+- le modèle relationnel pour la gestion de base de données a une structure et un langage cohérents avec la logique des prédicats de premier ordre
+- un système d'exploitation (os) est un logiciel système qui gère le matériel informatique et les ressources logicielles
+- Les avantages de l'utilisation de logiciels libres et gratuits peuvent inclure des coûts logiciels réduits, une sécurité et une stabilité accrues
+- L'environnement de bureau a été vu principalement sur les ordinateurs personnels jusqu'à la montée de l'informatique mobile
+- shell sécurisé est un protocole de réseau cryptographique permettant d'exploiter des services de réseau en toute sécurité sur un réseau non sécurisé
+- un code binaire représente du texte, des instructions de processeur informatique ou d'autres données utilisant un système à deux symboles
